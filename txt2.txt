@@ -2,3 +2,6 @@ Git
 maven
 selenium
 Jenkins
+
+chef
+puppets
